@@ -71,24 +71,14 @@ This profile reflects both my **technical learning journey** and my **creative s
 
 ---
 
-## 📈 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hirundineth123&show_icons=true&theme=tokyonight&hide_border=true" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hirundineth123&theme=tokyonight&hide_border=true" />
-</div>
-
----
 
 ## 🎯 Current Focus
 - Strengthening Python fundamentals
 - Building small real-world coding projects
-- Improving GitHub portfolio quality
 - Growing creative editing and content skills
 
 ---
 
 ## 📫 Professional Contact
 - GitHub: https://github.com/hirundineth123
-- Email: hirundineth11@gmail.com
+- Email: hirundineth123@gmail.com
