@@ -12,18 +12,24 @@ Currently focused on learning <b>Python</b>, improving problem-solving skills, a
 
 ---
 
-## 🧑‍💻 Professional Summary
+<h2 align="center"> 👁️‍🗨️ About me 👁️‍🗨️ </h2>
 
-```python
-profile = {
-    "name": "Hirun",
-    "role": "Student & Aspiring Developer",
-    "specializing_in": ["Python", "Automation", "Problem Solving"],
-    "creative_skills": ["After Effects", "Anime Editing", "Content Creation"],
-    "interests": ["Software", "Gaming", "UI Concepts", "Anime"],
-    "goal": "Build impactful software projects while growing as a developer"
-}
+```sh
+
 ```
+
+<img align="left" src="https://i.pinimg.com/1200x/d2/78/ec/d278ece544740f571911039e34d07e27.jpg" width="130px"/>
+
+```csharp
+My Profile
+-------------------------------
+Username: hirundineth123
+WhoamI: Normal People
+Languages: HTML, JavaScript, C++ and Python
+Pronouns: He-Him
+Location: Sri Lanka
+```
+
 
 This profile reflects both my **technical learning journey** and my **creative side**, combining programming with content creation and digital media.
 
