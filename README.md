@@ -14,20 +14,38 @@ Currently focused on learning <b>Python</b>, improving problem-solving skills, a
 
 <h2 align="center"> 👁️‍🗨️ About me 👁️‍🗨️ </h2>
 
-```sh
-
+```bash
+hirun@github:~/profile$ whoami
 ```
 
 <img align="left" src="https://i.pinimg.com/1200x/d2/78/ec/d278ece544740f571911039e34d07e27.jpg" width="130px"/>
 
-```csharp
-My Profile
--------------------------------
-Username: hirundineth123
-WhoamI: Normal People
-Languages: HTML, JavaScript, C++ and Python
-Pronouns: He-Him
-Location: Sri Lanka
+```bash
+hirun@github:~/profile$ whoami
+```
+
+```yaml
+name: Hirun Dineth
+github: hirundineth123
+education: NSBM Green University
+degree: BSc in Computer Security
+programming_languages:
+  - Python (learning, basics solid)
+  - C++ (basics)
+  - HTML
+technical_tools:
+  - VS Code
+  - Git & GitHub
+  - Python IDEs
+focus_areas:
+  - Cybersecurity
+  - Problem Solving
+  - Automation
+creative_tools:
+  - Adobe After Effects
+  - Adobe Photoshop
+  - Adobe Flash
+location: Sri Lanka
 ```
 
 
