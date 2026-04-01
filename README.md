@@ -3,7 +3,7 @@
 </div>
 
 <h2 align="center">Hey there! <img height="35" alt="Kyubey" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/></h2>
-<h3 align="center">Aspiring Software Developer • Python Learner • Content Creator</h3>
+<h3 align="center">Computer Security Undergraduate • Python Learner • Content Creator</h3>
 
 <p align="center">
 Hirun here! I am a undergraduate from Sri Lanka 🇱🇰 with a strong interest in software development, creative editing, and gaming content.
