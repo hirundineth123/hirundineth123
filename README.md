@@ -2,11 +2,11 @@
   <img src="https://komarev.com/ghpvc/?username=hirundineth123&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </div>
 
-<h1 align="center">Hi, I'm Hirun 👋</h1>
+<h2 align="center">Hey there! <img height="35" alt="Kyubey" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/></h2>
 <h3 align="center">Aspiring Software Developer • Python Learner • Content Creator</h3>
 
 <p align="center">
-A student from Sri Lanka 🇱🇰 with a strong interest in software development, creative editing, and gaming content.
+Hirun here! I am a undergraduate from Sri Lanka 🇱🇰 with a strong interest in software development, creative editing, and gaming content.
 Currently focused on learning <b>Python</b>, improving problem-solving skills, and building practical projects that combine creativity with technology.
 </p>
 
