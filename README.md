@@ -1,6 +1,5 @@
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=hirundineth123&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-  <img align="center" alt="count" src="[https://count.getloli.com/@DikaArdnt?name=DikaArdnt&theme=booru-lew](https://count.getloli.com/@hirundineth123?name=hirundineth123&theme=rule34)d">
+  <img align="center" alt="count" src="[https://count.getloli.com/@hirundineth123?name=hirundineth123&theme=booru-lew]">
 </div>
 
 <h2 align="center">Hey there! <img height="35" alt="Kyubey" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/></h2>
