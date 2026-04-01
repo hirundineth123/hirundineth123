@@ -49,8 +49,6 @@ location: Sri Lanka
 ```
 
 
-This profile reflects both my **technical learning journey** and my **creative side**, combining programming with content creation and digital media.
-
 ---
 
 ## ⚙️ Technical Skills
@@ -60,17 +58,6 @@ This profile reflects both my **technical learning journey** and my **creative s
 </p>
 
 ---
-
-## 🚀 Featured Projects
-
-| Project | Description |
-|---|---|
-| Python Mini Projects | Beginner-friendly programs focused on logic building and problem solving |
-| Anime Edit Portfolio | Creative motion edits and visual storytelling projects |
-| Gaming Content Ideas | Genshin-related concepts, guides, and experimental tools |
-
----
-
 
 ## 🎯 Current Focus
 - Strengthening Python fundamentals
