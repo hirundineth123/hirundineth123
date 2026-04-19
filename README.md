@@ -18,12 +18,6 @@ Currently focused on learning <b>Python</b>, improving problem-solving skills, a
 hirun@github:~/profile$ whoami
 ```
 
-<img align="left" src="https://i.pinimg.com/1200x/d2/78/ec/d278ece544740f571911039e34d07e27.jpg" width="130px"/>
-
-```bash
-hirun@github:~/profile$ whoami
-```
-
 ```yaml
 name: Hirun Dineth
 github: hirundineth123
