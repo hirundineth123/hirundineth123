@@ -1,7 +1,3 @@
-<div align="center">
-  <img align="center" alt="count" src="https://count.getloli.com/@hirundineth123?name=hirundineth123&theme=booru-lewd&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto">
-</div>
-
 <h2 align="center">Hey there! <img height="35" alt="Kyubey" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/></h2>
 <h3 align="center">Computer Security Undergraduate • Python Learner • Content Creator</h3>
 
